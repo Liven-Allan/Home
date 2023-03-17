@@ -1,0 +1,114 @@
+body {
+  margin: 0;
+}
+.case1{
+  background-color: grey;
+  height: 300px;
+  width: 450px;
+  display: inline-block;
+  text-align: center;
+
+
+}
+.case1:hover{
+  background-color: #590D82;
+}
+
+.case2{
+  background-color: skyblue;
+  height: 300px;
+  width: 450px;
+  display: inline-block;
+  position: absolute;
+  right: 0px;
+  text-align: center;
+}
+.case2:hover{
+  background-color: #3D0000;
+}
+.case3{
+  background-color: violet;
+  height: 300px;
+  width: 448px;
+  display: inline-block;
+  margin-left: 450px;
+  text-align: center;
+}
+.case3:hover{
+  background-color: #8D7B68;
+}
+.case4{
+  background-color: maroon;
+  height: 300px;
+  width: 450px;
+  display: inline-block;
+  text-align: center;
+}
+.case4:hover{
+  background-color: #B3005E;
+}
+.case5{
+  background-color: indigo;
+  height: 300px;
+  width: 450px;
+  display: inline-block;
+  position: absolute;
+  right: 0px;
+  text-align: center;
+}
+.case5:hover{
+  background-color: #FBFFB1;
+}
+h3 {
+  margin-top: 40%;
+}
+.B1{
+  background-color: #A4907C
+
+}
+.k1{
+  display: inline-block;
+
+}
+.k2{
+  display: inline;
+}
+.k3{
+  display: inline-block;
+
+}
+.k4{
+  display: inline;
+
+}
+.k5{
+  display: inline-block;
+
+}
+.k6{
+  display: inline;
+
+}
+.k7{
+  display: inline-block;
+
+}
+.k8{
+  display: inline;
+
+}
+.r1 {
+  background-color: #A47E3B;
+}
+.cla0{
+  background-color: #A64B2A;
+}
+.spa{
+  background-color: #E3B7A0
+}
+.spa1{
+  background-color: #BF9270;
+}
+.Bio{
+  background-color: #FFBF9B;
+}
